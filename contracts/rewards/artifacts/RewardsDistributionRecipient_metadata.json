@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "rewardsDistribution",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Orbis-balancer_old/contracts/rewards/RewardsDistributionRecipient.sol": "RewardsDistributionRecipient"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Orbis-balancer_old/contracts/rewards/RewardsDistributionRecipient.sol": {
+			"keccak256": "0x958bcac90869a8e38aecb3033a7fe0dff7e542d6ee5f78a11d7df511e59d7832",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://1ccd5ba2503347acbf6d4cd978c03306a710a5cc95c896c541919f6b3c5b2e2a",
+				"dweb:/ipfs/QmVAHbymNnSHJsB3kq3kptwvnk4AztqJ6akQXxiZX79vnd"
+			]
+		}
+	},
+	"version": 1
+}
